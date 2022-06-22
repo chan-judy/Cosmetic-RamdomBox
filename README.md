@@ -1,7 +1,7 @@
 # 💄Cosmetic RandomBox💄
 <br/>
 
-![KakaoTalk_20220620_233214629](https://user-images.githubusercontent.com/95482546/174624906-1b20f681-86f1-4945-8a66-791483227aae.gif)
+![console](https://user-images.githubusercontent.com/95482546/175101915-a8a44e07-cf4e-441a-a47f-30fc1952317a.jpg)
 
 
 ## 📂프로젝트 명
